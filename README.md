@@ -9,4 +9,4 @@
 - [木易在线跟打](https://typer.owenyang.top/) <https://typer.owenyang.top/>
 - [极速中文网](https://jsxiaoshi.com/) <https://jsxiaoshi.com/>
 - [长流跟打器](https://cl.tyu.wiki/) <https://cl.tyu.wiki/>
-- [添雨跟打器](https://taliove.com/tags/%E6%B7%BB%E9%9B%A8%E8%B7%9F%E6%89%93%E5%99%A8/) <https://taliove.com/tags/%E6%B7%BB%E9%9B%A8%E8%B7%9F%E6%89%93%E5%99%A8/>
+- [添雨跟打器](https://taliove.com/gdq-download/) <https://taliove.com/gdq-version-y16/>
