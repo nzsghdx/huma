@@ -1,5 +1,4 @@
-# 虎码
-### <p align="center">[虎码官网](https://tiger-code.com/index.html) [虎码网盘](http://huma.ysepan.com/) </p>
+# <p align="center">[虎码官网](https://tiger-code.com/index.html) [虎码网盘](http://huma.ysepan.com/)</p>
 #### 输入软件
 - [冰凌五笔](https://www.icesofts.com/download.html) 
 - [小科狗](http://kegou.ysepan.com/) 
